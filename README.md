@@ -65,6 +65,6 @@ Link: [Case Study 8](https://8weeksqlchallenge.com/case-study-8/)
 ---
 
 ## Follow me on:
-### <img src="https://cdn-icons-png.flaticon.com/512/38/38401.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> GitHub: https://github.com/luismirandad27 
+### <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> GitHub: https://github.com/luismirandad27 
 ### <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> Medium: https://medium.com/@lmirandad27
 ### <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> LinkedIn: https://www.linkedin.com/in/lmirandad27/
