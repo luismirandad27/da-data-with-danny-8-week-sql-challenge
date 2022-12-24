@@ -1,8 +1,6 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-
 # Data by Danny's 8 Week SQL Challenge
 
-#### Hello everyone! As a data engineer and data analyst, I have always considered SQL to be an important tool for processing data. Therefore, it is important to constantly train your skills in this language.
+#### Hello everyone! :wave: As a data engineer and data analyst, I have always considered SQL to be an important tool for processing data. Therefore, it is important to constantly train your skills in this language.:muscle:
 &nbsp;
 #### The best way to do this is to...practice!
 &nbsp;
@@ -15,13 +13,13 @@
 #### **#1 Danny's Diner Restaurant**
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px;"/>
-
+&nbsp;
 Link: [Case Study 1](https://8weeksqlchallenge.com/case-study-1/)
 &nbsp;
 #### **#2 Pizza Runner**
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px"/>
-
+&nbsp;
 Link: [Case Study 2](https://8weeksqlchallenge.com/case-study-2/)
 &nbsp;
 #### **#3 Foodie-Fi**
@@ -32,33 +30,36 @@ Link: [Case Study 3](https://8weeksqlchallenge.com/case-study-3/)
 #### **#4 Data Bank**
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/4.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px"/>
+&nbsp;
 Link: [Case Study 4](https://8weeksqlchallenge.com/case-study-4/)
 &nbsp;
 #### **#5 Data Mart**
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/5.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px"/>
-
+&nbsp;
 Link: [Case Study 5](https://8weeksqlchallenge.com/case-study-5/)
 &nbsp;
 #### **#6 Clique Bait**
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/6.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px"/>
-
+&nbsp;
 Link: [Case Study 6](https://8weeksqlchallenge.com/case-study-6/)
 &nbsp;
 #### **#7 Balanced Tree Clothing Co.**
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/7.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px"/>
+&nbsp;
 Link: [Case Study 7](https://8weeksqlchallenge.com/case-study-7/)
 &nbsp;
 #### **#8 Fresh Segments**
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/8.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px"/>
+&nbsp;
 Link: [Case Study 8](https://8weeksqlchallenge.com/case-study-8/)
 &nbsp;
 #### I decided to solve all the challenges in my free time. For your help, I will start posting my solution to each challenge in this repo.
 &nbsp;
-### Hope this help!
+### Hope this help! :raised_hands:
 #### Credits: [Data with Danny](https://www.datawithdanny.com/)
 &nbsp;
 
