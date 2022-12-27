@@ -3,7 +3,6 @@
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px;"/>
 
-&nbsp;
 ## Question's Solutions
 
 ### 1. What is the total amount each customer spent at the restaurant?
