@@ -7,22 +7,25 @@ A few days ago I found an interesting site called "Data with Danny". This site h
 &nbsp;
 #### These are the 8 challenges:
 &nbsp;
-
 #### **#1 Danny's Diner Restaurant**
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px;"/>
+
 &nbsp;
 Link: [Case Study 1](https://8weeksqlchallenge.com/case-study-1/)
 &nbsp;
 #### **#2 Pizza Runner**
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px"/>
+
 &nbsp;
 Link: [Case Study 2](https://8weeksqlchallenge.com/case-study-2/)
 &nbsp;
 #### **#3 Foodie-Fi**
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/8.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px"/>
+
+&nbsp;
 Link: [Case Study 3](https://8weeksqlchallenge.com/case-study-3/)
 &nbsp;
 #### **#4 Data Bank**
