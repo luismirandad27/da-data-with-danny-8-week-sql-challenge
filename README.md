@@ -1,11 +1,9 @@
 # Data by Danny's 8 Week SQL Challenge
-
-#### Hello everyone! :wave: As a data engineer and data analyst, I have always considered SQL to be an important tool for processing data. Therefore, it is important to constantly train your skills in this language.:muscle:
+Hello everyone! :wave: As a data engineer and data analyst, I have always considered SQL to be an important tool for processing data. Therefore, it is important to constantly train your skills in this language.:muscle:
 &nbsp;
-#### The best way to do this is to...practice!
+The best way to do this is to...practice!
 &nbsp;
-
-#### A few days ago I found an interesting site called "Data with Danny". This site has 8 SQL challenges, one for each week. Each challenge has its own scenario, database, and tables, and your task is to create SQL statements that can solve the questions.
+A few days ago I found an interesting site called "Data with Danny". This site has 8 SQL challenges, one for each week. Each challenge has its own scenario, database, and tables, and your task is to create SQL statements that can solve the questions.
 &nbsp;
 #### These are the 8 challenges:
 &nbsp;
@@ -48,6 +46,7 @@ Link: [Case Study 6](https://8weeksqlchallenge.com/case-study-6/)
 #### **#7 Balanced Tree Clothing Co.**
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/7.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px"/>
+     
 &nbsp;
 Link: [Case Study 7](https://8weeksqlchallenge.com/case-study-7/)
 &nbsp;
@@ -66,6 +65,6 @@ Link: [Case Study 8](https://8weeksqlchallenge.com/case-study-8/)
 ---
 
 ### Follow me on:
-#### <img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> GitHub: https://github.com/luismirandad27 
-#### <img src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> Medium: https://medium.com/@lmirandad27
-#### <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> LinkedIn: https://www.linkedin.com/in/lmirandad27/
+<img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> GitHub: https://github.com/luismirandad27 
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968933.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> Medium: https://medium.com/@lmirandad27
+<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Markdown Monster icon" style="height:20px;width:20px;border-radius:5px"/> LinkedIn: https://www.linkedin.com/in/lmirandad27/
