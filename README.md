@@ -68,7 +68,6 @@ Link: [Case Study 8](https://8weeksqlchallenge.com/case-study-8/)
 #### I decided to solve all the challenges in my free time. For your help, I will start posting my solution to each challenge in this repo.
 ### Hope this help! :raised_hands:
 #### Credits: [Data with Danny](https://www.datawithdanny.com/)
-&nbsp;
 
 ---
 
