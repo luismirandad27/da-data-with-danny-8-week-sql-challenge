@@ -2,7 +2,7 @@
 
 Updates:
 - December 28, 2022: Challenge #1 and #2 completed.
-- May 9, 2022: Challenge #3 completed. 
+- May 9, 2023: Challenge #3 completed. 
 ---
 &nbsp;
 
