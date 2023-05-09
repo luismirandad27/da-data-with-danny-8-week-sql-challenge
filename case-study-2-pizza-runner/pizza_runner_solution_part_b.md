@@ -3,7 +3,7 @@
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px;"/>
 
-## Question's Solutions - Part B - Runner and Customer Experience
+## Solution - Part B - Runner and Customer Experience
 
 ### 1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
 ```sql

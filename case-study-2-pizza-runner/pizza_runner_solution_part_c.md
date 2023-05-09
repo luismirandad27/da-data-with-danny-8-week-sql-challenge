@@ -3,7 +3,7 @@
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px;"/>
 
-## Question's Solutions - Part C - Ingredient Optimisation
+## Solution - Part C - Ingredient Optimisation
 
 ### 1. What are the standard ingredients for each pizza?
 ```sql

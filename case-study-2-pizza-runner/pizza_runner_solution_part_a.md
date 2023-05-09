@@ -3,7 +3,7 @@
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png"
      alt="Markdown Monster icon" style="height:400px;width:400px;border-radius:5px;"/>
 
-## Question's Solutions - Part A - Pizza Metrics
+## Solution - Part A - Pizza Metrics
 
 ### 1. How many pizzas were ordered?
 ```sql

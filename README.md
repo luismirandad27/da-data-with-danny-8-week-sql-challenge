@@ -1,4 +1,11 @@
 # Data by Danny's 8 Week SQL Challenge
+
+Updates:
+- December 28, 2022: Challenge #1 and #2 completed.
+- May 9, 2022: Challenge #3 completed. 
+---
+&nbsp;
+
 Hello everyone! :wave: As a data engineer and data analyst, I have always considered SQL to be an important tool for processing data. Therefore, it is important to constantly train your skills in this language.:muscle:
 &nbsp;
 
